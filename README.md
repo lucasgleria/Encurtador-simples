@@ -80,7 +80,7 @@ O **Encurtador de Links** é um projeto pessoal que oferece uma solução de des
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/SEU_USUARIO/encurtador.git # Substitua SEU_USUARIO pelo seu usuário do GitHub
+    git clone https://github.com/lucasgleria/encurtador-simples.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
