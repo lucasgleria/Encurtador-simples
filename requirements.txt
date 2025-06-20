@@ -1,0 +1,5 @@
+PyQt6
+pymongo
+validators
+python-dotenv
+Flask
